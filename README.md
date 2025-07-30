@@ -1,6 +1,6 @@
 # 📊 Qualitative Text Analyzer
 
-A comprehensive and interactive R Shiny dashboard for performing qualitative text analysis using natural language processing techniques such as word frequency analysis, sentiment classification, topic modeling (LDA), and document-topic mapping.
+A comprehensive, interactive R Shiny dashboard for performing qualitative text analysis using natural language processing techniques such as word frequency analysis, sentiment classification, topic modeling (LDA), and document-topic mapping.
 
 ---
 
