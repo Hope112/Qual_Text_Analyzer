@@ -6,14 +6,14 @@ A comprehensive, interactive R Shiny dashboard for performing qualitative text a
 
 ## Features
 
-- 📁 **Flexible Uploads**: Supports `.csv`, `.xlsx`, and `.sav` file formats.
-- 🧹 **Text Preprocessing**: Includes customizable cleaning options and stopword removal.
-- 📈 **Word Frequency Visualization**: View top terms, percentages, and downloadable summaries.
-- ☁️ **Word Cloud Generation**: Dynamically create and export word clouds.
-- ❤️ **Sentiment Analysis**: Classify sentiment using the `bing` lexicon and visualize results.
-- 🧠 **Topic Modeling (LDA)**: Extract and interpret latent topics from unstructured text.
-- 🗺️ **Document-Topic Mapping**: Assign documents to dominant topics with confidence scores.
-- 📥 **Downloadable Results**: Export all analysis outputs including tables, plots, and reports.
+- **Flexible Uploads**: Supports `.csv`, `.xlsx`, and `.sav` file formats.
+- **Text Preprocessing**: Includes customizable cleaning options and stopword removal.
+- **Word Frequency Visualization**: View top terms, percentages, and downloadable summaries.
+- **Word Cloud Generation**: Dynamically create and export word clouds.
+- **Sentiment Analysis**: Classify sentiment using the `bing` lexicon and visualize results.
+- **Topic Modeling (LDA)**: Extract and interpret latent topics from unstructured text.
+- **Document-Topic Mapping**: Assign documents to dominant topics with confidence scores.
+- **Downloadable Results**: Export all analysis outputs including tables, plots, and reports.
 
 ---
 
@@ -110,6 +110,6 @@ Each module allows downloading of:
 ## Contact
 
 Created and maintained by Hope Adegoke.  
-For questions, suggestions, or feature requests, please open an [issue] https://github.com/Hope112/Qual_Text_Analyzer/issues.
+For questions, suggestions, or feature requests, please open an issue https://github.com/Hope112/Qual_Text_Analyzer/issues.
 
 ---
