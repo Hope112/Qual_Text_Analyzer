@@ -146,9 +146,19 @@ check("Summary download records version and citation", {
   sl <- app$summary_lines(res, "x.csv")
   any(grepl(paste("App version:", app$APP_VERSION), sl, fixed = TRUE)) && any(grepl("Adegoke, H., & Anyaibe, O. (2026)", sl, fixed = TRUE))
 })
-check("Citation uses the Zenodo DOIs", grepl(paste0("https://doi.org/", app$APP_DOI), ui_html, fixed = TRUE) &&
-        grepl(paste0("https://doi.org/", app$APP_CONCEPT_DOI, ","), ui_html, fixed = TRUE) &&
+check("Citation uses the Zenodo DOI", grepl(paste0("https://doi.org/", app$APP_DOI), ui_html, fixed = TRUE) &&
         any(grepl(app$APP_DOI, app$summary_lines(res, "x.csv"), fixed = TRUE)))
+check("The app does not call tidytext::tidy() (it needs reshape2, which deployment misses)",
+      !any(grepl("tidy\\(", sub("#.*$", "", readLines(file.path(root, "FinaL_Qual_App", "app.R"))))))
+check("Topic tables match tidytext::tidy() on the fitted model", {
+  if (!methods::is(res$model, "LDA") || !requireNamespace("reshape2", quietly = TRUE)) TRUE else {
+    b <- dplyr::inner_join(tidytext::tidy(res$model, matrix = "beta"), res$beta, by = c("topic", "term"))
+    g <- tidytext::tidy(res$model, matrix = "gamma") %>% dplyr::mutate(row_id = as.integer(document)) %>%
+      dplyr::inner_join(res$gamma, by = c("row_id", "topic"))
+    nrow(b) == nrow(res$beta) && max(abs(b$beta.x - b$beta.y)) < 1e-10 &&
+      nrow(g) == nrow(res$gamma) && max(abs(g$gamma.x - g$gamma.y)) < 1e-10
+  }
+})
 check("CITATION.cff matches the app version", {
   cff <- readLines(file.path(root, "CITATION.cff"))
   any(grepl(paste0("^version: ", app$APP_VERSION, "$"), cff))

@@ -1,3 +1,7 @@
+# Version 2.0.1 (2026-11-02)
+
+The topic model failed on shinyapps.io with the message "there is no package called 'reshape2'". The app read the fitted model through `tidytext::tidy()`, which depends on reshape2, but deployment tools only install packages that the app names, and reshape2 had been removed from the package list as unused. The app now reads the topic tables directly from the fitted model, so it no longer needs reshape2, and two new checks guard against this. The app's citation now uses the Zenodo DOI for all versions (10.5281/zenodo.23891341), which always points to the latest release.
+
 # Version 2.0.0 (2026-11-02)
 
 Hope Adegoke and Oluchi Anyaibe released version 1.0 in May 2025 as an R programming course project and published it on shinyapps.io. Version 2.0.0, released in November 2026, contains the fixes and additions below. Its results differ from version 1.0 on the same data, as the methods changes explain.

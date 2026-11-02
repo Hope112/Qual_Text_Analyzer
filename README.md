@@ -72,7 +72,7 @@ Run this from the project folder:
 Rscript tests/check_app.R
 ```
 
-It runs 59 checks on the sample data, covering how topic results line up with the original rows, the text cleaning, sentiment, the topic tools, every download and the user interface. The last line should report 0 failed.
+It runs 61 checks on the sample data, covering how topic results line up with the original rows, the text cleaning, sentiment, the topic tools, every download and the user interface. The last line should report 0 failed.
 
 ---
 
@@ -100,9 +100,9 @@ Lexicon sentiment ignores sarcasm and domain-specific meanings, and the negation
 
 If you use the app in published work, please cite it along with the methods behind your results, and report your settings. The summary download on the Data Summary tab lists them. GitHub's Cite this repository button, which comes from `CITATION.cff`, gives the citation in APA and BibTeX formats.
 
-> Adegoke, H., & Anyaibe, O. (2026). *Qualitative Text Analyzer* (Version 2.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23891342
+> Adegoke, H., & Anyaibe, O. (2026). *Qualitative Text Analyzer* (Version 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23891341
 
-To refer to the app in general rather than a specific version, use https://doi.org/10.5281/zenodo.23891341, which always points to the latest version.
+This DOI always points to the latest release. Each release also has its own DOI, listed on the Zenodo page, if you need to point to one specific release.
 
 The method references are Blei, Ng and Jordan (2003) for LDA, Grün and Hornik (2011) for topicmodels, Silge and Robinson (2016) for tidytext, Hu and Liu (2004) for the Bing lexicon and Sievert and Shirley (2014) for term relevance. If you used the k diagnostics, also cite Mimno et al. (2011). The full references are on the app's How to Use tab.
 
@@ -116,4 +116,4 @@ The app is released under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-Hope Adegoke and Oluchi Anyaibe created the app as an R programming course project in 2025, and Hope Adegoke maintains version 2.0.0. The live app is at https://diodnl-hope-adegoke.shinyapps.io/Qualitative_Analysis/. For questions, suggestions or feature requests, please open an issue at https://github.com/Hope112/Qual_Text_Analyzer/issues.
+Hope Adegoke and Oluchi Anyaibe created the app as an R programming course project in 2025, and Hope Adegoke maintains version 2.0. The live app is at https://diodnl-hope-adegoke.shinyapps.io/Qualitative_Analysis/. For questions, suggestions or feature requests, please open an issue at https://github.com/Hope112/Qual_Text_Analyzer/issues.
