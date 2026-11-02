@@ -1,0 +1,501 @@
+respondent_id,program,cohort,overall_rating,comments,suggestions
+R1001,Online,2024,3,"In general, the platform login failed often and tech support was slow, but peer review of drafts improved my writing.",Improve the audio quality of recordings.
+R1002,In-person,2024,2,Homework took far more hours than a three-credit course should.,Reduce the weekly reading load. Post the full schedule at the start.
+R1003,In-person,2025,5,"Overall, quizzes helped me check my understanding each week. The weekly readings were a fair amount and well chosen.",
+R1004,Hybrid,2024,3,The platform login failed often and tech support was slow. Lab TAs were rarely available when we needed help. Quizzes helped me check my understanding each week.,Return graded work faster with comments.
+R1005,Online,2026,4,"Overall, the instructor gave thoughtful feedback on every assignment.",Hold more office hours before exams. More time for questions during lecture.
+R1006,Online,2025,1,"In general, video recordings had poor audio and sometimes cut out. Too many deadlines landed in the same week, which was stressful.",
+R1007,In-person,2024,2,"Honestly, lab TAs were rarely available when we needed help, but the instructor explained difficult concepts clearly and always checked that we understood.",Post lecture notes before class.
+R1008,In-person,2025,3,,No suggestions.
+R1009,In-person,2026,5,"To be fair, deadlines were reasonable and spread out across the semester, and office hours with the professor were incredibly helpful.",Hold more office hours before exams. Faster replies to student emails.
+R1010,In-person,2025,5,Peer review of drafts improved my writing.,Use peer evaluations in group grades.
+R1011,In-person,2025,3,"Overall, the group project helped me learn from my classmates. Lectures were monotonous and the professor read straight from the slides. The lab manual had errors and confusing instructions.",Make group projects smaller.
+R1012,In-person,2024,3,"In general, homework took far more hours than a three-credit course should. I enjoyed the lab activities and learned the software quickly.",Post the full schedule at the start. Avoid stacking assignments in the same week.
+R1013,In-person,2026,3,"Points were taken off without any explanation, but lectures were engaging and the professor used great real-world examples.",
+R1014,In-person,2025,4,Grades were posted quickly with useful comments.,Provide more practice exams.
+R1015,Online,2025,1,"Overall, grading was inconsistent and the rubric was unclear.",
+R1016,In-person,2025,1,Lab TAs were rarely available when we needed help.,Fix or replace the broken lab equipment. Update the lab manual.
+R1017,Online,2024,3,The exams were unfair and far harder than the homework. Team activities in class built a strong sense of community.,Provide more practice exams.
+R1018,Hybrid,2026,1,"Honestly, lab sessions were too short to finish the exercises. The instructor rushed through lectures and rarely took questions. Team assignments were graded as a group, which felt unfair.",Use peer evaluations in group grades. Give class time for group meetings.
+R1019,In-person,2024,2,"Overall, the workload was overwhelming, with assignments due every few days.",Reduce the weekly reading load.
+R1020,Hybrid,2024,4,The weekly readings were a fair amount and well chosen.,
+R1021,In-person,2025,1,"Overall, course materials were scattered across too many websites.",Post recordings within a day. Improve the audio quality of recordings.
+R1022,In-person,2025,2,Not a good experience.,
+R1023,Online,2024,1,Disappointing course.,
+R1024,Online,2025,4,Dr. Okafor was approachable and genuinely cared about our learning.,More time for questions during lecture.
+R1025,Hybrid,2025,1,"Overall, I never felt comfortable asking the instructor for help. The lab software kept crashing during sessions. Team assignments were graded as a group, which felt unfair.",
+R1026,Hybrid,2025,3,"To be fair, the final exam was worth too much of the grade, and coordinating schedules for group work was a nightmare.",
+R1027,Hybrid,2025,1,"Overall, quiz questions were confusing and poorly worded.",
+R1028,Hybrid,2024,4,"To be fair, assignments were well balanced across the term. In my group project one person did all the work.",Use peer evaluations in group grades.
+R1029,In-person,2026,2,"In general, exams were fair and closely matched the practice problems. Online quizzes failed to submit and I lost points. The lab manual had errors and confusing instructions.",
+R1030,Online,2025,2,"Overall, the instructor rushed through lectures and rarely took questions. The workload was overwhelming, with assignments due every few days. Video recordings had poor audio and sometimes cut out.",
+R1031,Online,2025,3,"To be fair, our instructor responded to emails quickly and was very supportive.",Hold more office hours before exams.
+R1032,In-person,2024,5,"In general, grades were posted quickly with useful comments.",
+R1033,Online,2025,5,I liked that exams tested understanding rather than memorization.,Provide more practice exams.
+R1034,In-person,2024,3,"The schedule was posted early, which made planning easy. Course materials were scattered across too many websites.",Fix the broken links on the course site.
+R1035,Hybrid,2026,5,"The schedule was posted early, which made planning easy. Having all slides and recordings online made studying easier.",Reduce the weekly reading load.
+R1036,In-person,2025,4,"Overall, the professor was enthusiastic and made the material interesting. The weekly readings were a fair amount and well chosen. I enjoyed the lab activities and learned the software quickly.",Post the full schedule at the start.
+R1037,In-person,2024,4,Assignments were well balanced across the term. Working with peers on case studies was very rewarding. Recorded lectures on the course website were great for review.,Post recordings within a day.
+R1038,Online,2026,4,Dr. Okafor was approachable and genuinely cared about our learning.,Faster replies to student emails.
+R1039,In-person,2026,4,n/a,
+R1040,Online,2026,2,The pace gave us enough time to absorb each topic. The professor seemed unprepared for several lectures.,
+R1041,In-person,2024,3,"To be fair, links on the course website were broken for weeks. The grading rubric was clear, so I knew what was expected.",Return graded work faster with comments.
+R1042,Online,2024,3,"Overall, the pace gave us enough time to absorb each topic. Exams were fair and closely matched the practice problems.",
+R1043,In-person,2025,3,"Overall, the lab manual had errors and confusing instructions.",Update the lab manual. Add more TA support in labs.
+R1044,In-person,2024,5,"In general, peer review of drafts improved my writing. Lectures were engaging and the professor used great real-world examples.",Post lecture notes before class.
+R1045,Online,2026,5,"Honestly, the instructor gave thoughtful feedback on every assignment.",Post lecture notes before class.
+R1046,In-person,2025,3,"To be fair, the labs felt disconnected from the lecture material, but the professor was enthusiastic and made the material interesting.",Post lecture notes before class. Faster replies to student emails.
+R1047,In-person,2026,5,"To be fair, our instructor responded to emails quickly and was very supportive, and grades were posted quickly with useful comments.",Faster replies to student emails.
+R1048,In-person,2024,2,Feedback from the instructor came late and was not helpful. Lab sessions were too short to finish the exercises.,Add more TA support in labs. Fix or replace the broken lab equipment.
+R1049,In-person,2025,3,"To be fair, working with real datasets in lab made the concepts click. The final exam was worth too much of the grade.",Update the lab manual. Fix or replace the broken lab equipment.
+R1050,Hybrid,2026,3,The labs felt disconnected from the lecture material. Exams covered material we never practiced in class. Coordinating schedules for group work was a nightmare.,
+R1051,Online,2026,4,"The grading rubric was clear, so I knew what was expected. I appreciated how patient the instructor was with questions.",
+R1052,In-person,2024,2,The final exam was worth too much of the grade.,
+R1053,Hybrid,2024,2,"To be fair, lab equipment was often broken and we wasted time waiting.",Make lab sessions longer. Fix or replace the broken lab equipment.
+R1054,In-person,2024,2,Lab sessions were too short to finish the exercises.,Add more TA support in labs. Make lab sessions longer.
+R1055,In-person,2024,5,"The grading rubric was clear, so I knew what was expected. The instructor explained difficult concepts clearly and always checked that we understood. Assignments were well balanced across the term.",Share a clear grading rubric for every assignment.
+R1056,Online,2024,5,"The grading rubric was clear, so I knew what was expected, and announcements on the course site kept everyone informed.",
+R1057,Online,2024,1,"Recordings were posted late or not at all, and the pace was exhausting and I fell behind by midterm.",
+R1058,Online,2025,4,Our instructor responded to emails quickly and was very supportive. The discussion board was useful for asking questions between classes.,Post recordings within a day.
+R1059,Online,2025,5,Loved it.,
+R1060,In-person,2026,4,"To be fair, lab practice prepared me well for the assignments.",Make lab sessions longer.
+R1061,Hybrid,2024,3,The online platform was hard to navigate and files were hard to find. Assignments were well balanced across the term. Quiz questions were confusing and poorly worded.,
+R1062,Online,2026,2,"Overall, the final exam was worth too much of the grade, and the online platform was hard to navigate and files were hard to find.",
+R1063,In-person,2024,5,Peer review of drafts improved my writing.,
+R1064,In-person,2025,5,"I appreciated how patient the instructor was with questions, and the hands-on lab exercises connected well with the lectures.",Update the lab manual. Fix or replace the broken lab equipment.
+R1065,In-person,2025,2,"To be fair, coordinating schedules for group work was a nightmare. The instructor didn't respond to emails for over a week. The workload was manageable and the pace felt right.",
+R1066,Online,2026,4,"Online quizzes gave instant feedback, which I liked, and the pace gave us enough time to absorb each topic.",Post recordings within a day.
+R1067,Hybrid,2026,5,"To be fair, the weekly readings were a fair amount and well chosen.",
+R1068,In-person,2024,3,Deadlines were reasonable and spread out across the semester. Lab TAs were knowledgeable and helped us troubleshoot. Peer review of drafts improved my writing.,Post the full schedule at the start. Spread the deadlines out more evenly.
+R1069,In-person,2026,4,"Honestly, the schedule was posted early, which made planning easy.",Post the full schedule at the start.
+R1070,In-person,2026,1,"To be fair, in my group project one person did all the work. The lab manual had errors and confusing instructions.",Give class time for group meetings. Use peer evaluations in group grades.
+R1071,Hybrid,2025,5,"Honestly, the grading rubric was clear, so I knew what was expected.",Lower the weight of the final exam.
+R1072,Hybrid,2026,2,"Overall, grading was inconsistent and the rubric was unclear.",Lower the weight of the final exam.
+R1073,In-person,2025,4,Team activities in class built a strong sense of community. The workload was manageable and the pace felt right.,Avoid stacking assignments in the same week.
+R1074,In-person,2026,1,"To be fair, the professor seemed unprepared for several lectures.",Faster replies to student emails. More time for questions during lecture.
+R1075,In-person,2024,3,"In general, the discussion board was useful for asking questions between classes. Coordinating schedules for group work was a nightmare.",Let students choose their own groups.
+R1076,Online,2025,2,"Homework took far more hours than a three-credit course should, and the final exam was worth too much of the grade.",
+R1077,In-person,2025,5,"To be fair, I enjoyed the lab activities and learned the software quickly, and the grading rubric was clear, so I knew what was expected.",Lower the weight of the final exam. Return graded work faster with comments.
+R1078,In-person,2025,4,Our instructor responded to emails quickly and was very supportive.,
+R1079,In-person,2026,3,"Overall, the instructor was dismissive when students asked questions. The workload was manageable and the pace felt right.",Hold more office hours before exams. Post lecture notes before class.
+R1080,Hybrid,2024,5,Very good class overall.,
+R1081,In-person,2024,4,"Honestly, group discussions helped me see different perspectives, and announcements on the course site kept everyone informed.",Use peer evaluations in group grades.
+R1082,Online,2025,3,"To be fair, online quizzes gave instant feedback, which I liked.",
+R1083,Online,2026,5,"To be fair, working with peers on case studies was very rewarding.",Give class time for group meetings.
+R1084,Online,2025,3,"Honestly, course materials were scattered across too many websites. The instructor explained difficult concepts clearly and always checked that we understood.",
+R1085,In-person,2026,2,"Overall, the schedule kept changing and deadlines moved without warning, but working with real datasets in lab made the concepts click.",Avoid stacking assignments in the same week.
+R1086,In-person,2025,1,Lab TAs were rarely available when we needed help.,
+R1087,In-person,2025,4,"To be fair, I enjoyed the lab activities and learned the software quickly, and the instructor gave thoughtful feedback on every assignment.",Update the lab manual.
+R1088,In-person,2025,1,The final exam was worth too much of the grade.,Share a clear grading rubric for every assignment.
+R1089,In-person,2025,2,Lab TAs were rarely available when we needed help.,Update the lab manual. Fix or replace the broken lab equipment.
+R1090,Hybrid,2024,2,"To be fair, lectures were monotonous and the professor read straight from the slides. Team assignments were graded as a group, which felt unfair.",More time for questions during lecture. Post lecture notes before class.
+R1091,Online,2025,5,Lab TAs were knowledgeable and helped us troubleshoot.,
+R1092,In-person,2025,4,"To be fair, working with peers on case studies was very rewarding.",Let students choose their own groups. Use peer evaluations in group grades.
+R1093,In-person,2026,2,"Team assignments were graded as a group, which felt unfair, and the lab software kept crashing during sessions.",Make lab sessions longer. Update the lab manual.
+R1094,Hybrid,2026,5,"Overall, the grading rubric was clear, so I knew what was expected. I enjoyed the lab activities and learned the software quickly.",Return graded work faster with comments.
+R1095,Hybrid,2024,4,Loved it.,
+R1096,In-person,2026,4,-,
+R1097,Hybrid,2024,4,Announcements on the course site kept everyone informed.,Fix the broken links on the course site. Improve the audio quality of recordings.
+R1098,Hybrid,2026,5,Peer review of drafts improved my writing.,Give class time for group meetings.
+R1099,Online,2026,2,Exams covered material we never practiced in class.,Return graded work faster with comments.
+R1100,Hybrid,2026,1,"In general, the instructor didn't respond to emails for over a week, and I was burned out by the amount of work in the second half.",Post lecture notes before class.
+R1101,Online,2026,1,Not a good experience.,
+R1102,In-person,2026,4,"In general, the pace gave us enough time to absorb each topic, and grades were posted quickly with useful comments.",Avoid stacking assignments in the same week.
+R1103,In-person,2024,2,Would not recommend.,
+R1104,In-person,2024,2,Group members did not communicate and missed meetings. The pace was exhausting and I fell behind by midterm.,Avoid stacking assignments in the same week.
+R1105,In-person,2024,5,"Overall, I appreciated how patient the instructor was with questions. Working with peers on case studies was very rewarding.",Use peer evaluations in group grades. Let students choose their own groups.
+R1106,Hybrid,2025,2,"In general, the platform login failed often and tech support was slow.",Keep all materials on one website.
+R1107,Hybrid,2026,4,"Honestly, the schedule was posted early, which made planning easy. Lab equipment was often broken and we wasted time waiting.",Make lab sessions longer. Update the lab manual.
+R1108,Hybrid,2026,5,Loved it.,
+R1109,In-person,2024,4,"To be fair, exams covered material we never practiced in class, but the professor was enthusiastic and made the material interesting.",
+R1110,Online,2026,4,"Overall, recordings were posted late or not at all. Quizzes helped me check my understanding each week.",Provide more practice exams.
+R1111,Online,2026,4,"Overall, the grading rubric was clear, so I knew what was expected.",
+R1112,In-person,2024,4,,
+R1113,Online,2025,1,Not a good experience.,
+R1114,In-person,2025,2,"Overall, the pace was exhausting and I fell behind by midterm.",Reduce the weekly reading load. Post the full schedule at the start.
+R1115,In-person,2026,2,Would not recommend.,
+R1116,In-person,2026,4,"Overall, exams were fair and closely matched the practice problems. Recorded lectures on the course website were great for review.",Keep all materials on one website.
+R1117,Online,2025,1,"Overall, the pace was exhausting and I fell behind by midterm.",
+R1118,Online,2025,3,"Overall, homework took far more hours than a three-credit course should.",
+R1119,In-person,2026,3,"To be fair, the schedule was posted early, which made planning easy. Working with real datasets in lab made the concepts click. Grades were posted quickly with useful comments.",Add more TA support in labs.
+R1120,Hybrid,2024,4,Assignments were well balanced across the term. Lectures were engaging and the professor used great real-world examples.,
+R1121,Online,2026,3,Group discussions helped me see different perspectives.,Let students choose their own groups.
+R1122,In-person,2025,2,The lab software kept crashing during sessions.,Fix or replace the broken lab equipment.
+R1123,Online,2024,2,Quiz questions were confusing and poorly worded. Recordings were posted late or not at all.,Return graded work faster with comments. Provide more practice exams.
+R1124,In-person,2026,5,Lab TAs were knowledgeable and helped us troubleshoot. Peer review of drafts improved my writing.,
+R1125,In-person,2026,3,Having all slides and recordings online made studying easier.,Improve the audio quality of recordings.
+R1126,Hybrid,2024,5,"Learned a lot, thank you.",
+R1127,In-person,2024,1,The instructor was dismissive when students asked questions.,
+R1128,In-person,2025,2,"Overall, lab equipment was often broken and we wasted time waiting.",Make lab sessions longer.
+R1129,Online,2026,4,Points were taken off without any explanation. Announcements on the course site kept everyone informed.,
+R1130,Online,2026,4,"Overall, the pace gave us enough time to absorb each topic.",Spread the deadlines out more evenly. Reduce the weekly reading load.
+R1131,In-person,2026,5,"The workload was manageable and the pace felt right, and exams were fair and closely matched the practice problems.",
+R1132,In-person,2025,1,The instructor was dismissive when students asked questions.,More time for questions during lecture. Hold more office hours before exams.
+R1133,Hybrid,2024,2,N/A,
+R1134,In-person,2026,5,Grades were posted quickly with useful comments.,
+R1135,In-person,2026,4,"Honestly, the group project helped me learn from my classmates, but the professor seemed unprepared for several lectures.",Make group projects smaller.
+R1136,Online,2024,2,I appreciated how patient the instructor was with questions. Peer evaluations were ignored when assigning grades. The final exam was worth too much of the grade.,Make group projects smaller.
+R1137,Online,2024,4,"The grading rubric was clear, so I knew what was expected.",
+R1138,In-person,2026,4,"In general, lab sessions were too short to finish the exercises. The instructor was dismissive when students asked questions. Peer review of drafts improved my writing.",Give class time for group meetings.
+R1139,Hybrid,2024,4,"Deadlines were reasonable and spread out across the semester, but the instructor was dismissive when students asked questions.",
+R1140,Hybrid,2026,5,"Announcements on the course site kept everyone informed, and lab TAs were knowledgeable and helped us troubleshoot.",
+R1141,In-person,2024,5,"Office hours with the professor were incredibly helpful, and the lab sessions were the best part, with real hands-on practice.",
+R1142,Online,2025,1,"Honestly, exams covered material we never practiced in class.",
+R1143,In-person,2026,3,"Overall, my project team collaborated really well. The instructor rushed through lectures and rarely took questions. The weekly readings were far too long to finish.",Reduce the weekly reading load. Spread the deadlines out more evenly.
+R1144,Hybrid,2024,2,Video recordings had poor audio and sometimes cut out.,Fix the broken links on the course site.
+R1145,In-person,2025,5,Lectures were engaging and the professor used great real-world examples.,Hold more office hours before exams. Faster replies to student emails.
+R1146,Hybrid,2025,5,"Honestly, recorded lectures on the course website were great for review.",Keep all materials on one website.
+R1147,Online,2025,1,"To be fair, online quizzes failed to submit and I lost points, and feedback from the instructor came late and was not helpful.",Improve the audio quality of recordings.
+R1148,In-person,2026,4,Loved it.,
+R1149,Hybrid,2024,4,"Overall, the final exam was worth too much of the grade, but the online platform was easy to navigate and well organized.",Lower the weight of the final exam.
+R1150,In-person,2025,2,"Overall, lab sessions were too short to finish the exercises. The workload was overwhelming, with assignments due every few days.",Avoid stacking assignments in the same week.
+R1151,Online,2024,1,"Honestly, links on the course website were broken for weeks.",Post recordings within a day. Fix the broken links on the course site.
+R1152,Online,2024,4,Recorded lectures on the course website were great for review.,
+R1153,Online,2025,4,"Honestly, exams were fair and closely matched the practice problems.",
+R1154,Hybrid,2026,5,"In general, group discussions helped me see different perspectives.",
+R1155,Online,2026,3,"Overall, Dr. Okafor was approachable and genuinely cared about our learning.",Post lecture notes before class.
+R1156,Online,2024,2,The pace was exhausting and I fell behind by midterm.,Post the full schedule at the start.
+R1157,Online,2026,4,"In general, the instructor explained difficult concepts clearly and always checked that we understood.",
+R1158,In-person,2025,5,Peer review of drafts improved my writing. I appreciated how patient the instructor was with questions.,
+R1159,Online,2026,5,"Learned a lot, thank you.",
+R1160,In-person,2025,3,"To be fair, working with peers on case studies was very rewarding, but lab TAs were rarely available when we needed help.",Make lab sessions longer. Fix or replace the broken lab equipment.
+R1161,Online,2026,1,   ,No suggestions.
+R1162,Online,2024,1,"Honestly, team assignments were graded as a group, which felt unfair. I appreciated how patient the instructor was with questions. Recordings were posted late or not at all.",
+R1163,Online,2024,4,"Honestly, recorded lectures on the course website were great for review. The schedule was posted early, which made planning easy. The final project was a fair way to show what we learned.",Avoid stacking assignments in the same week.
+R1164,Online,2024,3,Group discussions helped me see different perspectives.,
+R1165,Hybrid,2025,4,"Honestly, I enjoyed the lab activities and learned the software quickly. The workload was manageable and the pace felt right.",
+R1166,In-person,2025,1,Not a good experience.,
+R1167,Hybrid,2025,1,Homework took far more hours than a three-credit course should. Feedback from the instructor came late and was not helpful. Quiz questions were confusing and poorly worded.,Post lecture notes before class.
+R1168,Online,2026,4,"To be fair, video recordings had poor audio and sometimes cut out, but working with peers on case studies was very rewarding.",
+R1169,In-person,2024,1,Lectures were monotonous and the professor read straight from the slides.,Post lecture notes before class.
+R1170,In-person,2025,3,"The hands-on lab exercises connected well with the lectures. Lectures were engaging and the professor used great real-world examples. The workload was overwhelming, with assignments due every few days.",
+R1171,Online,2026,1,"Overall, too many deadlines landed in the same week, which was stressful. The professor's explanations were confusing and disorganized. Quiz questions were confusing and poorly worded.",Hold more office hours before exams.
+R1172,In-person,2025,3,"In general, the pace was exhausting and I fell behind by midterm. Lab TAs were rarely available when we needed help. Exams were fair and closely matched the practice problems.",Update the lab manual.
+R1173,In-person,2026,4,"Honestly, lab TAs were knowledgeable and helped us troubleshoot.",
+R1174,Online,2024,3,"Honestly, the schedule was posted early, which made planning easy. The platform login failed often and tech support was slow. In my group project one person did all the work.",Make group projects smaller.
+R1175,Online,2025,3,"Overall, the platform login failed often and tech support was slow. The schedule kept changing and deadlines moved without warning.",Reduce the weekly reading load.
+R1176,Online,2025,3,I appreciated how patient the instructor was with questions.,More time for questions during lecture.
+R1177,Hybrid,2025,3,"Overall, lab equipment was often broken and we wasted time waiting. My project team collaborated really well.",Use peer evaluations in group grades.
+R1178,Online,2024,3,,
+R1179,In-person,2024,3,"In general, the professor's explanations were confusing and disorganized. Working with real datasets in lab made the concepts click.",More time for questions during lecture.
+R1180,Hybrid,2025,3,"Overall, the professor's explanations were confusing and disorganized, but the discussion board was useful for asking questions between classes.",
+R1181,In-person,2025,5,"In general, I liked that exams tested understanding rather than memorization.",
+R1182,In-person,2026,4,The instructor explained difficult concepts clearly and always checked that we understood.,More time for questions during lecture.
+R1183,Online,2024,5,Having all slides and recordings online made studying easier. I appreciated how patient the instructor was with questions.,
+R1184,In-person,2026,4,My project team collaborated really well.,Use peer evaluations in group grades.
+R1185,Hybrid,2026,1,"In general, grading was inconsistent and the rubric was unclear. Links on the course website were broken for weeks.",Improve the audio quality of recordings. Fix the broken links on the course site.
+R1186,Online,2025,2,Course materials were scattered across too many websites.,
+R1187,In-person,2026,5,Exams were fair and closely matched the practice problems.,Lower the weight of the final exam.
+R1188,In-person,2025,2,"In general, the pace was exhausting and I fell behind by midterm. The professor seemed unprepared for several lectures.",More time for questions during lecture. Hold more office hours before exams.
+R1189,In-person,2024,4,Lectures were engaging and the professor used great real-world examples.,
+R1190,Hybrid,2026,4,"To be fair, quizzes helped me check my understanding each week, and deadlines were reasonable and spread out across the semester.",Provide more practice exams.
+R1191,Online,2025,2,"Honestly, the group project helped me learn from my classmates. The workload was manageable and the pace felt right. Online quizzes failed to submit and I lost points.",Use peer evaluations in group grades.
+R1192,Hybrid,2026,3,"Group discussions helped me see different perspectives. The grading rubric was clear, so I knew what was expected.",Return graded work faster with comments. Provide more practice exams.
+R1193,Online,2025,2,"Overall, the pace was exhausting and I fell behind by midterm.",
+R1194,In-person,2024,1,"I never felt comfortable asking the instructor for help, and the lab manual had errors and confusing instructions.",Post lecture notes before class. Hold more office hours before exams.
+R1195,In-person,2024,5,"Overall, the workload was manageable and the pace felt right. Our instructor responded to emails quickly and was very supportive. Working with real datasets in lab made the concepts click.",
+R1196,Online,2024,1,"In general, the pace was exhausting and I fell behind by midterm. Links on the course website were broken for weeks.",
+R1197,Online,2025,3,"In general, too many deadlines landed in the same week, which was stressful.",
+R1198,Online,2024,5,Working with real datasets in lab made the concepts click.,Update the lab manual. Add more TA support in labs.
+R1199,Online,2025,4,Loved it.,
+R1200,In-person,2024,2,"Team assignments were graded as a group, which felt unfair. The lab software kept crashing during sessions.",Give class time for group meetings.
+R1201,In-person,2024,2,Disappointing course.,
+R1202,In-person,2025,3,"Overall, the workload was overwhelming, with assignments due every few days. The instructor explained difficult concepts clearly and always checked that we understood.",Hold more office hours before exams. More time for questions during lecture.
+R1203,In-person,2026,4,The weekly readings were a fair amount and well chosen.,Reduce the weekly reading load.
+R1204,Online,2025,3,The instructor gave thoughtful feedback on every assignment. Quiz questions were confusing and poorly worded.,Hold more office hours before exams. Faster replies to student emails.
+R1205,In-person,2024,2,"Overall, team activities in class built a strong sense of community. The instructor didn’t respond to emails for over a week.",
+R1206,Online,2026,4,I appreciated how patient the instructor was with questions. Recorded lectures on the course website were great for review.,
+R1207,In-person,2026,2,"To be fair, lab equipment was often broken and we wasted time waiting.",Update the lab manual.
+R1208,In-person,2025,5,"The schedule was posted early, which made planning easy.",Post the full schedule at the start.
+R1209,Hybrid,2026,3,5,No suggestions.
+R1210,Hybrid,2026,2,Lectures were monotonous and the professor read straight from the slides.,Faster replies to student emails.
+R1211,Online,2025,4,"Honestly, the instructor didn't respond to emails for over a week. Having all slides and recordings online made studying easier. The schedule was posted early, which made planning easy.",Fix the broken links on the course site. Post recordings within a day.
+R1212,Hybrid,2025,2,"Course materials were scattered across too many websites, and too many deadlines landed in the same week, which was stressful.",
+R1213,Hybrid,2025,3,The weekly readings were a fair amount and well chosen.,
+R1214,In-person,2026,1,"Too many deadlines landed in the same week, which was stressful, and the professor's explanations were confusing and disorganized.",
+R1215,In-person,2025,5,Lab practice prepared me well for the assignments.,Update the lab manual.
+R1216,In-person,2025,1,"Honestly, the final exam was worth too much of the grade.",Share a clear grading rubric for every assignment.
+R1217,Hybrid,2026,4,The hands-on lab exercises connected well with the lectures. Team activities in class built a strong sense of community. The weekly readings were a fair amount and well chosen.,Give class time for group meetings.
+R1218,In-person,2025,2,The lab manual had errors and confusing instructions.,Update the lab manual. Make lab sessions longer.
+R1219,Hybrid,2026,1,"Honestly, lab equipment was often broken and we wasted time waiting, and group members did not communicate and missed meetings.",Add more TA support in labs.
+R1220,Online,2024,4,"To be fair, grading was inconsistent and the rubric was unclear. The schedule was posted early, which made planning easy. Our instructor responded to emails quickly and was very supportive.",Avoid stacking assignments in the same week.
+R1221,Online,2024,1,"Overall, course materials were scattered across too many websites.",
+R1222,In-person,2025,2,"In general, coordinating schedules for group work was a nightmare. The lab software kept crashing during sessions. Having all slides and recordings online made studying easier.",Add more TA support in labs.
+R1223,In-person,2026,1,Would not recommend.,
+R1224,In-person,2026,4,Exams were fair and closely matched the practice problems. Lab TAs were knowledgeable and helped us troubleshoot.,
+R1225,Online,2024,4,"In general, recorded lectures on the course website were great for review.",Keep all materials on one website.
+R1226,In-person,2024,2,"In general, our instructor responded to emails quickly and was very supportive. Group members did not communicate and missed meetings.",Use peer evaluations in group grades.
+R1227,In-person,2024,4,"Learned a lot, thank you.",
+R1228,In-person,2024,2,Peer evaluations were ignored when assigning grades.,
+R1229,Online,2025,4,"The schedule was posted early, which made planning easy, and announcements on the course site kept everyone informed.",Post recordings within a day.
+R1230,Online,2025,4,"To be fair, the professor was enthusiastic and made the material interesting.",Faster replies to student emails.
+R1231,Online,2025,4,"In general, the instructor was dismissive when students asked questions, but grades were posted quickly with useful comments.",Lower the weight of the final exam.
+R1232,In-person,2025,5,Office hours with the professor were incredibly helpful.,Post lecture notes before class.
+R1233,Online,2025,2,Lab equipment was often broken and we wasted time waiting.,
+R1234,Online,2024,5,"Overall, having all slides and recordings online made studying easier. Quizzes helped me check my understanding each week. Team activities in class built a strong sense of community.",
+R1235,Hybrid,2024,5,"Learned a lot, thank you.",
+R1236,Online,2024,1,"I never felt comfortable asking the instructor for help, and quiz questions were confusing and poorly worded.",
+R1237,In-person,2025,2,"Honestly, the labs felt disconnected from the lecture material. Lectures were monotonous and the professor read straight from the slides. Too many deadlines landed in the same week, which was stressful.",
+R1238,In-person,2025,5,"Lectures were engaging and the professor used great real-world examples, and the group project helped me learn from my classmates.",Let students choose their own groups.
+R1239,In-person,2024,3,"In general, I was burned out by the amount of work in the second half, but the final project was a fair way to show what we learned.",Reduce the weekly reading load.
+R1240,Online,2025,3,"Honestly, recorded lectures on the course website were great for review.",Improve the audio quality of recordings.
+R1241,In-person,2025,1,The instructor was dismissive when students asked questions. Coordinating schedules for group work was a nightmare.,
+R1242,In-person,2025,5,"Quizzes helped me check my understanding each week, and our instructor responded to emails quickly and was very supportive.",
+R1243,Online,2026,3,"Overall, the online platform was easy to navigate and well organized.",Fix the broken links on the course site.
+R1244,Hybrid,2024,1,The instructor was dismissive when students asked questions.,More time for questions during lecture. Faster replies to student emails.
+R1245,Online,2025,5,"Online quizzes gave instant feedback, which I liked.",Keep all materials on one website. Fix the broken links on the course site.
+R1246,Online,2024,2,"To be fair, the platform login failed often and tech support was slow, and I never felt comfortable asking the instructor for help.",Keep all materials on one website.
+R1247,Online,2026,4,Video recordings had poor audio and sometimes cut out. The hands-on lab exercises connected well with the lectures. The instructor rushed through lectures and rarely took questions.,Post lecture notes before class. Faster replies to student emails.
+R1248,Online,2024,3,The instructor didn't respond to emails for over a week. The final exam was worth too much of the grade.,Lower the weight of the final exam. Share a clear grading rubric for every assignment.
+R1249,In-person,2024,3,"To be fair, the professor was enthusiastic and made the material interesting. The weekly readings were far too long to finish.",Hold more office hours before exams.
+R1250,Hybrid,2026,4,"In general, the online platform was easy to navigate and well organized.",Keep all materials on one website.
+R1251,In-person,2024,4,Loved it.,
+R1252,In-person,2024,1,"Overall, the pace was exhausting and I fell behind by midterm. Course materials were scattered across too many websites.",
+R1253,Online,2024,3,"Overall, homework took far more hours than a three-credit course should. Lab sessions were too short to finish the exercises.",Add more TA support in labs.
+R1254,Online,2026,2,Lectures were monotonous and the professor read straight from the slides.,
+R1255,Online,2026,4,Very good class overall.,
+R1256,Online,2026,4,Group members did not communicate and missed meetings. Lectures were engaging and the professor used great real-world examples.,Faster replies to student emails.
+R1257,In-person,2025,4,"To be fair, I enjoyed the lab activities and learned the software quickly. Group discussions helped me see different perspectives.",
+R1258,In-person,2025,5,"In general, working with real datasets in lab made the concepts click.",
+R1259,Hybrid,2026,1,"In general, the weekly readings were far too long to finish.",
+R1260,Online,2026,2,"Honestly, recorded lectures on the course website were great for review, but the lab software kept crashing during sessions.",Post recordings within a day.
+R1261,In-person,2024,4,"The lab sessions were the best part, with real hands-on practice.",
+R1262,In-person,2026,2,"Honestly, the weekly readings were far too long to finish.",
+R1263,In-person,2024,1,The exams were unfair and far harder than the homework.,Provide more practice exams.
+R1264,In-person,2025,5,The discussion board was useful for asking questions between classes.,Fix the broken links on the course site.
+R1265,Hybrid,2025,1,Points were taken off without any explanation. The instructor rushed through lectures and rarely took questions.,
+R1266,Online,2025,1,"In general, lectures were monotonous and the professor read straight from the slides.",
+R1267,Online,2026,1,Video recordings had poor audio and sometimes cut out.,
+R1268,In-person,2026,2,"Honestly, the instructor was dismissive when students asked questions. Lab practice prepared me well for the assignments.",Post lecture notes before class.
+R1269,Hybrid,2024,2,"To be fair, the online platform was hard to navigate and files were hard to find. In my group project one person did all the work.",
+R1270,Hybrid,2026,4,The schedule kept changing and deadlines moved without warning.,Spread the deadlines out more evenly.
+R1271,In-person,2024,5,"Our instructor responded to emails quickly and was very supportive, and working with peers on case studies was very rewarding.",More time for questions during lecture. Post lecture notes before class.
+R1272,Hybrid,2024,1,"Honestly, the schedule kept changing and deadlines moved without warning.",Avoid stacking assignments in the same week. Spread the deadlines out more evenly.
+R1273,In-person,2026,1,"In general, homework took far more hours than a three-credit course should.",Reduce the weekly reading load.
+R1274,Hybrid,2024,1,   ,
+R1275,Online,2024,1,"To be fair, the group project took time away from actually learning the material.",
+R1276,Hybrid,2025,1,The platform login failed often and tech support was slow.,Fix the broken links on the course site.
+R1277,Online,2025,5,The discussion board was useful for asking questions between classes.,
+R1278,In-person,2024,5,"Honestly, lab TAs were knowledgeable and helped us troubleshoot. Online quizzes gave instant feedback, which I liked.",
+R1279,In-person,2025,2,"Overall, feedback from the instructor came late and was not helpful. Exams covered material we never practiced in class.",
+R1280,Online,2025,3,The online platform was easy to navigate and well organized.,Keep all materials on one website.
+R1281,In-person,2024,1,"Overall, lab sessions were too short to finish the exercises. The instructor was dismissive when students asked questions.",Update the lab manual. Add more TA support in labs.
+R1282,Online,2026,1,The platform login failed often and tech support was slow.,
+R1283,Hybrid,2024,5,,
+R1284,In-person,2024,3,"Overall, team activities in class built a strong sense of community.",Let students choose their own groups.
+R1285,Online,2025,5,The discussion board was useful for asking questions between classes. Working with real datasets in lab made the concepts click.,Fix or replace the broken lab equipment.
+R1286,In-person,2024,1,Not a good experience.,
+R1287,Online,2025,2,N/A,
+R1288,Hybrid,2024,3,Homework took far more hours than a three-credit course should. The lab software kept crashing during sessions.,
+R1289,In-person,2025,2,"To be fair, exams covered material we never practiced in class. The workload was overwhelming, with assignments due every few days.",Return graded work faster with comments. Share a clear grading rubric for every assignment.
+R1290,Online,2024,2,"Honestly, online quizzes failed to submit and I lost points. I appreciated how patient the instructor was with questions. The workload was overwhelming, with assignments due every few days.",Reduce the weekly reading load. Spread the deadlines out more evenly.
+R1291,In-person,2025,4,,
+R1292,In-person,2026,2,The platform login failed often and tech support was slow. The professor’s explanations were confusing and disorganized.,Fix the broken links on the course site. Post recordings within a day.
+R1293,Online,2026,1,N/A,
+R1294,In-person,2026,2,"Honestly, I was burned out by the amount of work in the second half.",Post the full schedule at the start.
+R1295,Online,2024,5,"In general, the discussion board was useful for asking questions between classes. The weekly readings were a fair amount and well chosen.",
+R1296,Online,2025,2,"Feedback from the instructor came late and was not helpful, and video recordings had poor audio and sometimes cut out.",More time for questions during lecture.
+R1297,Online,2024,5,none,
+R1298,In-person,2026,2,"To be fair, I never felt comfortable asking the instructor for help.",
+R1299,In-person,2024,1,"Overall, the weekly readings were far too long to finish.",Spread the deadlines out more evenly. Reduce the weekly reading load.
+R1300,Online,2025,2,"Overall, the workload was overwhelming, with assignments due every few days, and I never felt comfortable asking the instructor for help.",
+R1301,In-person,2024,2,,
+R1302,Online,2025,4,"Honestly, recorded lectures on the course website were great for review. My project team collaborated really well.",Let students choose their own groups.
+R1303,Online,2026,1,"To be fair, it took weeks to get grades back, with no comments.",Provide more practice exams.
+R1304,Online,2024,3,none,
+R1305,In-person,2025,1,"Overall, our instructor responded to emails quickly and was very supportive. Team assignments were graded as a group, which felt unfair.",Use peer evaluations in group grades.
+R1306,Online,2026,5,10/10,
+R1307,Online,2026,5,"Honestly, working with peers on case studies was very rewarding. The discussion board was useful for asking questions between classes.",
+R1308,In-person,2026,1,"To be fair, the labs felt disconnected from the lecture material. The online platform was hard to navigate and files were hard to find. The instructor was dismissive when students asked questions.",
+R1309,In-person,2025,4,"Honestly, I never felt comfortable asking the instructor for help, but the weekly readings were a fair amount and well chosen.",
+R1310,Hybrid,2025,4,"In general, the workload was manageable and the pace felt right.",
+R1311,In-person,2024,1,Points were taken off without any explanation.,Return graded work faster with comments. Provide more practice exams.
+R1312,Online,2024,2,The pace was exhausting and I fell behind by midterm.,
+R1313,Online,2025,2,"In general, too many deadlines landed in the same week, which was stressful.",
+R1314,Online,2024,3,5,
+R1315,Online,2024,1,Disappointing course.,
+R1316,Online,2024,3,The instructor rushed through lectures and rarely took questions. Recordings were posted late or not at all.,
+R1317,In-person,2024,4,"To be fair, deadlines were reasonable and spread out across the semester. The professor was enthusiastic and made the material interesting.",Reduce the weekly reading load.
+R1318,Online,2024,5,Very good class overall.,
+R1319,Online,2024,2,"Honestly, homework took far more hours than a three-credit course should. It took weeks to get grades back, with no comments. Lectures were monotonous and the professor read straight from the slides.",Post the full schedule at the start. Avoid stacking assignments in the same week.
+R1320,Hybrid,2025,3,"To be fair, the group project helped me learn from my classmates, but the pace was exhausting and I fell behind by midterm.",Reduce the weekly reading load.
+R1321,In-person,2024,5,"Overall, working with real datasets in lab made the concepts click. The final project was a fair way to show what we learned.",
+R1322,Hybrid,2024,1,"In general, the online platform was easy to navigate and well organized. Homework took far more hours than a three-credit course should.",
+R1323,In-person,2024,2,The lab software kept crashing during sessions.,
+R1324,In-person,2024,1,"In general, the schedule kept changing and deadlines moved without warning. The group project took time away from actually learning the material. Lab equipment was often broken and we wasted time waiting.",Fix or replace the broken lab equipment. Update the lab manual.
+R1325,Hybrid,2024,5,"Overall, the workload was manageable and the pace felt right. Lab practice prepared me well for the assignments. Grading was inconsistent and the rubric was unclear.",Update the lab manual.
+R1326,In-person,2025,2,Quiz questions were confusing and poorly worded.,Share a clear grading rubric for every assignment. Provide more practice exams.
+R1327,Online,2024,4,"Honestly, office hours with the professor were incredibly helpful. The online platform was easy to navigate and well organized.",Fix the broken links on the course site.
+R1328,In-person,2025,5,"Lectures were engaging and the professor used great real-world examples, and the pace gave us enough time to absorb each topic.",
+R1329,In-person,2025,5,"To be fair, the instructor gave thoughtful feedback on every assignment.",
+R1330,Online,2025,2,"Honestly, peer evaluations were ignored when assigning grades. The online platform was hard to navigate and files were hard to find.",Improve the audio quality of recordings. Keep all materials on one website.
+R1331,In-person,2025,2,5,
+R1332,Online,2024,4,"To be fair, online quizzes gave instant feedback, which I liked. The workload was manageable and the pace felt right.",Improve the audio quality of recordings.
+R1333,Hybrid,2025,3,"To be fair, the group project took time away from actually learning the material. The weekly readings were far too long to finish.",
+R1334,In-person,2024,4,"The hands-on lab exercises connected well with the lectures, and working with peers on case studies was very rewarding.",
+R1335,Hybrid,2026,3,"In general, the pace was exhausting and I fell behind by midterm. Coordinating schedules for group work was a nightmare. Course materials were scattered across too many websites.",
+R1336,In-person,2026,2,"Honestly, the professor seemed unprepared for several lectures.",
+R1337,Hybrid,2026,4,"In general, assignments were well balanced across the term. Lab sessions were too short to finish the exercises. Dr. Okafor was approachable and genuinely cared about our learning.",Reduce the weekly reading load.
+R1338,Hybrid,2024,2,Lab TAs were rarely available when we needed help.,Make lab sessions longer.
+R1339,Hybrid,2026,2,The platform login failed often and tech support was slow. Group members did not communicate and missed meetings. The workload was manageable and the pace felt right.,Fix the broken links on the course site.
+R1340,Online,2025,3,"Overall, points were taken off without any explanation.",Share a clear grading rubric for every assignment. Lower the weight of the final exam.
+R1341,Hybrid,2025,5,Dr. Okafor was approachable and genuinely cared about our learning.,
+R1342,Hybrid,2024,4,"To be fair, quizzes helped me check my understanding each week.",Return graded work faster with comments.
+R1343,Online,2025,5,Announcements on the course site kept everyone informed.,
+R1344,Hybrid,2025,4,"Learned a lot, thank you.",
+R1345,Online,2026,2,,No suggestions.
+R1346,Online,2026,1,"Overall, video recordings had poor audio and sometimes cut out. The group project took time away from actually learning the material.",
+R1347,Online,2024,4,"In general, Dr. Okafor was approachable and genuinely cared about our learning. Deadlines were reasonable and spread out across the semester. My project team collaborated really well.",Let students choose their own groups.
+R1348,In-person,2025,1,"Honestly, lab sessions were too short to finish the exercises.",
+R1349,In-person,2025,1,-,
+R1350,In-person,2024,1,"The schedule kept changing and deadlines moved without warning, and lab equipment was often broken and we wasted time waiting.",Add more TA support in labs.
+R1351,In-person,2026,1,"Overall, I was burned out by the amount of work in the second half, and the instructor was dismissive when students asked questions.",
+R1352,In-person,2024,4,"Honestly, lab TAs were knowledgeable and helped us troubleshoot. Deadlines were reasonable and spread out across the semester. Team activities in class built a strong sense of community.",Let students choose their own groups.
+R1353,Online,2024,5,"Online quizzes gave instant feedback, which I liked, and I appreciated how patient the instructor was with questions.",
+R1354,In-person,2026,5,"The schedule was posted early, which made planning easy.",Avoid stacking assignments in the same week. Spread the deadlines out more evenly.
+R1355,Online,2025,3,"Overall, recordings were posted late or not at all.",Improve the audio quality of recordings.
+R1356,Hybrid,2026,1,"Overall, the instructor rushed through lectures and rarely took questions.",
+R1357,Hybrid,2025,3,"To be fair, the schedule kept changing and deadlines moved without warning. Team activities in class built a strong sense of community.",
+R1358,Hybrid,2024,4,"The lab manual had errors and confusing instructions. The schedule was posted early, which made planning easy.",Spread the deadlines out more evenly.
+R1359,Hybrid,2026,2,"To be fair, course materials were scattered across too many websites. My project team collaborated really well.",
+R1360,In-person,2024,3,"Overall, the lab sessions were the best part, with real hands-on practice.",
+R1361,In-person,2024,2,"In general, coordinating schedules for group work was a nightmare.",Let students choose their own groups.
+R1362,In-person,2025,1,"In general, feedback from the instructor came late and was not helpful. Too many deadlines landed in the same week, which was stressful. It took weeks to get grades back, with no comments.",Share a clear grading rubric for every assignment.
+R1363,Online,2025,3,"Honestly, deadlines were reasonable and spread out across the semester. Grading was inconsistent and the rubric was unclear.",Share a clear grading rubric for every assignment.
+R1364,Online,2025,4,"The online platform was hard to navigate and files were hard to find, but exams were fair and closely matched the practice problems.",
+R1365,In-person,2024,3,The pace gave us enough time to absorb each topic. The hands-on lab exercises connected well with the lectures.,
+R1366,Online,2024,1,"In general, the platform login failed often and tech support was slow, and the group project took time away from actually learning the material.",
+R1367,In-person,2026,1,"In general, the lab software kept crashing during sessions.",
+R1368,Hybrid,2026,4,The weekly readings were a fair amount and well chosen.,
+R1369,Online,2025,5,10/10,No suggestions.
+R1370,Online,2025,1,Links on the course website were broken for weeks.,
+R1371,Hybrid,2024,5,"Overall, the hands-on lab exercises connected well with the lectures.",Make lab sessions longer.
+R1372,In-person,2025,1,"In general, the instructor rushed through lectures and rarely took questions.",More time for questions during lecture.
+R1373,In-person,2024,5,The professor was enthusiastic and made the material interesting.,
+R1374,Hybrid,2025,3,"To be fair, working with real datasets in lab made the concepts click. The pace gave us enough time to absorb each topic. Lectures were monotonous and the professor read straight from the slides.",Update the lab manual.
+R1375,Online,2025,4,"I liked that exams tested understanding rather than memorization, and group discussions helped me see different perspectives.",Give class time for group meetings.
+R1376,Hybrid,2025,1,"In general, the labs felt disconnected from the lecture material.",Fix or replace the broken lab equipment. Add more TA support in labs.
+R1377,In-person,2024,3,"Honestly, the online platform was easy to navigate and well organized. It took weeks to get grades back, with no comments.",Share a clear grading rubric for every assignment.
+R1378,In-person,2024,2,The instructor didn't respond to emails for over a week.,More time for questions during lecture.
+R1379,Online,2025,3,-,
+R1380,In-person,2024,4,My project team collaborated really well. The hands-on lab exercises connected well with the lectures.,
+R1381,Online,2025,5,The workload was manageable and the pace felt right.,Avoid stacking assignments in the same week.
+R1382,In-person,2024,3,The group project helped me learn from my classmates. Lab sessions were too short to finish the exercises.,
+R1383,Online,2026,2,"To be fair, grading was inconsistent and the rubric was unclear. Video recordings had poor audio and sometimes cut out.",Share a clear grading rubric for every assignment.
+R1384,Online,2026,1,"Overall, lectures were monotonous and the professor read straight from the slides.",Faster replies to student emails.
+R1385,Online,2025,2,"In general, group members did not communicate and missed meetings.",
+R1386,In-person,2025,4,The weekly readings were a fair amount and well chosen.,
+R1387,In-person,2026,3,"In general, the lab manual had errors and confusing instructions.",Add more TA support in labs.
+R1388,Online,2026,2,"Overall, recordings were posted late or not at all, and feedback from the instructor came late and was not helpful.",Fix the broken links on the course site.
+R1389,Online,2026,1,Quiz questions were confusing and poorly worded.,Return graded work faster with comments. Share a clear grading rubric for every assignment.
+R1390,In-person,2026,2,,
+R1391,Online,2026,3,Grading was inconsistent and the rubric was unclear. Video recordings had poor audio and sometimes cut out. Peer review of drafts improved my writing.,Use peer evaluations in group grades. Make group projects smaller.
+R1392,Hybrid,2024,1,Lab TAs were rarely available when we needed help.,
+R1393,Online,2024,1,"Honestly, course materials were scattered across too many websites. The professor seemed unprepared for several lectures.",
+R1394,In-person,2025,2,"In general, it took weeks to get grades back, with no comments, and the pace was exhausting and I fell behind by midterm.",
+R1395,Online,2024,3,"Honestly, the instructor rushed through lectures and rarely took questions. Exams were fair and closely matched the practice problems.",
+R1396,In-person,2026,2,"To be fair, Dr. Okafor was approachable and genuinely cared about our learning. The workload was overwhelming, with assignments due every few days.",Spread the deadlines out more evenly. Avoid stacking assignments in the same week.
+R1397,In-person,2025,2,The instructor rushed through lectures and rarely took questions.,Hold more office hours before exams.
+R1398,In-person,2026,3,The weekly readings were far too long to finish. The lab software kept crashing during sessions.,
+R1399,Hybrid,2026,4,Announcements on the course site kept everyone informed. Homework took far more hours than a three-credit course should.,
+R1400,Hybrid,2024,1,"The instructor didn’t respond to emails for over a week, and points were taken off without any explanation.",Faster replies to student emails.
+R1401,Hybrid,2025,2,The platform login failed often and tech support was slow.,Keep all materials on one website.
+R1402,Hybrid,2025,1,"Overall, feedback from the instructor came late and was not helpful. The online platform was hard to navigate and files were hard to find. The labs felt disconnected from the lecture material.",
+R1403,Online,2024,2,The professor seemed unprepared for several lectures.,Hold more office hours before exams.
+R1404,In-person,2024,3,-,
+R1405,Online,2025,3,Recordings were posted late or not at all.,Post recordings within a day.
+R1406,In-person,2025,4,"In general, lab TAs were knowledgeable and helped us troubleshoot.",Make lab sessions longer.
+R1407,Online,2024,1,The professor seemed unprepared for several lectures.,Faster replies to student emails.
+R1408,Hybrid,2026,2,"Team assignments were graded as a group, which felt unfair.",Use peer evaluations in group grades.
+R1409,In-person,2024,2,,
+R1410,Hybrid,2025,2,"In general, the schedule kept changing and deadlines moved without warning, and it took weeks to get grades back, with no comments.",
+R1411,In-person,2026,1,The labs felt disconnected from the lecture material.,
+R1412,Online,2025,4,"Overall, the online platform was easy to navigate and well organized, and assignments were well balanced across the term.",
+R1413,Online,2026,5,"Honestly, I appreciated how patient the instructor was with questions. The grading rubric was clear, so I knew what was expected. The pace gave us enough time to absorb each topic.",
+R1414,Online,2025,2,"In general, online quizzes failed to submit and I lost points. Grading was inconsistent and the rubric was unclear.",Share a clear grading rubric for every assignment. Lower the weight of the final exam.
+R1415,Online,2025,1,"In general, I was burned out by the amount of work in the second half. Peer evaluations were ignored when assigning grades. Video recordings had poor audio and sometimes cut out.",Make group projects smaller.
+R1416,Online,2026,4,"To be fair, lectures were engaging and the professor used great real-world examples, and exams were fair and closely matched the practice problems.",More time for questions during lecture.
+R1417,In-person,2024,3,I appreciated how patient the instructor was with questions. Peer evaluations were ignored when assigning grades. Video recordings had poor audio and sometimes cut out.,
+R1418,Online,2024,1,none,No suggestions.
+R1419,Hybrid,2026,2,"To be fair, the hands-on lab exercises connected well with the lectures, but coordinating schedules for group work was a nightmare.",
+R1420,In-person,2026,5,The hands-on lab exercises connected well with the lectures.,Fix or replace the broken lab equipment.
+R1421,Hybrid,2024,1,"Overall, lectures were engaging and the professor used great real-world examples. Quiz questions were confusing and poorly worded. Too many deadlines landed in the same week, which was stressful.",More time for questions during lecture. Faster replies to student emails.
+R1422,In-person,2026,1,"In general, the lab software kept crashing during sessions. The professor seemed unprepared for several lectures.",
+R1423,Online,2026,5,The discussion board was useful for asking questions between classes.,Fix the broken links on the course site. Improve the audio quality of recordings.
+R1424,In-person,2026,2,"Lab equipment was often broken and we wasted time waiting, and the schedule kept changing and deadlines moved without warning.",
+R1425,In-person,2025,2,"Overall, the lab software kept crashing during sessions, and the instructor was dismissive when students asked questions.",More time for questions during lecture.
+R1426,Online,2025,2,"To be fair, exams covered material we never practiced in class. I never felt comfortable asking the instructor for help.",
+R1427,Hybrid,2025,4,"To be fair, the grading rubric was clear, so I knew what was expected. The lab sessions were the best part, with real hands-on practice. My project team collaborated really well.",
+R1428,Online,2026,1,"Honestly, the online platform was hard to navigate and files were hard to find, and the schedule kept changing and deadlines moved without warning.",
+R1429,In-person,2025,4,Lectures were engaging and the professor used great real-world examples.,Faster replies to student emails.
+R1430,Hybrid,2026,4,Exams covered material we never practiced in class. The online platform was easy to navigate and well organized. Assignments were well balanced across the term.,Post the full schedule at the start.
+R1431,In-person,2026,3,I never felt comfortable asking the instructor for help. Lab sessions were too short to finish the exercises. I liked that exams tested understanding rather than memorization.,
+R1432,In-person,2026,3,"In general, the instructor gave thoughtful feedback on every assignment. It took weeks to get grades back, with no comments. Assignments were well balanced across the term.",More time for questions during lecture. Hold more office hours before exams.
+R1433,In-person,2025,4,"The schedule was posted early, which made planning easy.",
+R1434,Online,2024,4,"Honestly, online quizzes gave instant feedback, which I liked. Quizzes helped me check my understanding each week.",Return graded work faster with comments.
+R1435,In-person,2025,2,"In general, the group project took time away from actually learning the material. I never felt comfortable asking the instructor for help.",
+R1436,Online,2026,3,"Overall, the lab manual had errors and confusing instructions, but the discussion board was useful for asking questions between classes.",Fix the broken links on the course site.
+R1437,In-person,2025,5,Group discussions helped me see different perspectives.,
+R1438,Online,2026,4,Very good class overall.,
+R1439,In-person,2026,3,The final exam was worth too much of the grade.,Return graded work faster with comments.
+R1440,Online,2026,2,"Honestly, I never felt comfortable asking the instructor for help, and points were taken off without any explanation.",More time for questions during lecture.
+R1441,Online,2025,1,"Overall, online quizzes failed to submit and I lost points.",Improve the audio quality of recordings.
+R1442,In-person,2026,1,The lab manual had errors and confusing instructions. I was burned out by the amount of work in the second half.,Add more TA support in labs.
+R1443,Online,2024,5,"Peer review of drafts improved my writing. The schedule was posted early, which made planning easy.",Let students choose their own groups. Give class time for group meetings.
+R1444,Hybrid,2026,5,"In general, the grading rubric was clear, so I knew what was expected.",Provide more practice exams. Share a clear grading rubric for every assignment.
+R1445,In-person,2026,4,The professor was enthusiastic and made the material interesting. The hands-on lab exercises connected well with the lectures.,
+R1446,Hybrid,2025,2,"To be fair, the instructor was dismissive when students asked questions, but team activities in class built a strong sense of community.",
+R1447,In-person,2024,1,"Overall, in my group project one person did all the work. Homework took far more hours than a three-credit course should.",Give class time for group meetings.
+R1448,Online,2026,1,"Course materials were scattered across too many websites. It took weeks to get grades back, with no comments.",Fix the broken links on the course site.
+R1449,Hybrid,2025,5,The online platform was easy to navigate and well organized.,Keep all materials on one website.
+R1450,Online,2025,3,"The schedule was posted early, which made planning easy. Recordings were posted late or not at all.",Post the full schedule at the start.
+R1451,In-person,2024,4,"To be fair, I enjoyed the lab activities and learned the software quickly, and assignments were well balanced across the term.",
+R1452,Online,2024,1,"Overall, recordings were posted late or not at all. Points were taken off without any explanation.",Return graded work faster with comments.
+R1453,In-person,2026,5,Having all slides and recordings online made studying easier.,
+R1454,In-person,2025,5,The workload was manageable and the pace felt right. I enjoyed the lab activities and learned the software quickly.,Reduce the weekly reading load. Spread the deadlines out more evenly.
+R1455,Hybrid,2025,4,"Overall, lab TAs were knowledgeable and helped us troubleshoot.",Add more TA support in labs.
+R1456,Online,2026,4,"To be fair, Dr. Okafor was approachable and genuinely cared about our learning, and I liked that exams tested understanding rather than memorization.",Hold more office hours before exams.
+R1457,Online,2025,4,The online platform was easy to navigate and well organized.,
+R1458,In-person,2025,3,The instructor gave thoughtful feedback on every assignment. In my group project one person did all the work. Lab sessions were too short to finish the exercises.,Faster replies to student emails. Post lecture notes before class.
+R1459,In-person,2026,2,"Overall, peer evaluations were ignored when assigning grades, and the lab software kept crashing during sessions.",Fix or replace the broken lab equipment.
+R1460,Online,2024,2,Not a good experience.,
+R1461,Online,2026,1,"To be fair, recordings were posted late or not at all.",
+R1462,Hybrid,2025,2,"Honestly, the pace was exhausting and I fell behind by midterm. The group project helped me learn from my classmates.",Reduce the weekly reading load. Avoid stacking assignments in the same week.
+R1463,Online,2026,2,"The exams were unfair and far harder than the homework, but assignments were well balanced across the term.",
+R1464,Hybrid,2026,1,"Honestly, online quizzes failed to submit and I lost points. Team assignments were graded as a group, which felt unfair.",Make group projects smaller.
+R1465,In-person,2025,4,The group project helped me learn from my classmates. Deadlines were reasonable and spread out across the semester.,
+R1466,Online,2025,3,"Overall, announcements on the course site kept everyone informed. I liked that exams tested understanding rather than memorization.",Provide more practice exams.
+R1467,In-person,2026,2,"In general, office hours with the professor were incredibly helpful, but the lab software kept crashing during sessions.",
+R1468,Online,2024,1,"In general, the workload was overwhelming, with assignments due every few days, and links on the course website were broken for weeks.",Post recordings within a day.
+R1469,Hybrid,2024,1,"In general, peer evaluations were ignored when assigning grades.",Let students choose their own groups.
+R1470,In-person,2024,2,N/A,
+R1471,Online,2024,3,"The workload was overwhelming, with assignments due every few days. Peer evaluations were ignored when assigning grades. The instructor explained difficult concepts clearly and always checked that we understood.",Let students choose their own groups. Give class time for group meetings.
+R1472,Online,2024,2,"Overall, homework took far more hours than a three-credit course should.",Post the full schedule at the start.
+R1473,In-person,2024,5,"Working with real datasets in lab made the concepts click, and grades were posted quickly with useful comments.",
+R1474,In-person,2026,4,"In general, quizzes helped me check my understanding each week. The lab manual had errors and confusing instructions.",
+R1475,Online,2025,5,"In general, lectures were engaging and the professor used great real-world examples.",
+R1476,In-person,2026,3,"Honestly, having all slides and recordings online made studying easier. The professor’s explanations were confusing and disorganized.",Hold more office hours before exams. Post lecture notes before class.
+R1477,In-person,2025,3,"Overall, office hours with the professor were incredibly helpful. I enjoyed the lab activities and learned the software quickly. The group project helped me learn from my classmates.",
+R1478,Online,2024,5,Very good class overall.,
+R1479,In-person,2026,5,"Overall, lectures were engaging and the professor used great real-world examples.",Faster replies to student emails.
+R1480,Hybrid,2026,1,Group members did not communicate and missed meetings.,Let students choose their own groups.
+R1481,Hybrid,2025,1,"Overall, grading was inconsistent and the rubric was unclear.",
+R1482,Hybrid,2025,1,The professor's explanations were confusing and disorganized.,More time for questions during lecture.
+R1483,Hybrid,2024,4,"Honestly, recorded lectures on the course website were great for review. Lectures were monotonous and the professor read straight from the slides. Grades were posted quickly with useful comments.",Fix the broken links on the course site.
+R1484,In-person,2025,3,"Overall, the lab software kept crashing during sessions. My project team collaborated really well.",Let students choose their own groups. Give class time for group meetings.
+R1485,In-person,2024,3,"Honestly, the professor was enthusiastic and made the material interesting.",
+R1486,Online,2025,4,"Quizzes helped me check my understanding each week, and Dr. Okafor was approachable and genuinely cared about our learning.",Share a clear grading rubric for every assignment.
+R1487,Online,2024,1,"Honestly, links on the course website were broken for weeks.",
+R1488,Online,2025,4,"To be fair, video recordings had poor audio and sometimes cut out. The group project helped me learn from my classmates. The weekly readings were a fair amount and well chosen.",Post recordings within a day. Fix the broken links on the course site.
+R1489,Hybrid,2026,4,"In general, our instructor responded to emails quickly and was very supportive.",Faster replies to student emails. Post lecture notes before class.
+R1490,In-person,2024,4,"To be fair, I appreciated how patient the instructor was with questions, but points were taken off without any explanation.",Share a clear grading rubric for every assignment.
+R1491,Online,2025,3,"To be fair, video recordings had poor audio and sometimes cut out. Quizzes helped me check my understanding each week.",
+R1492,In-person,2026,1,Lab sessions were too short to finish the exercises.,Make lab sessions longer.
+R1493,Online,2025,4,The workload was manageable and the pace felt right.,
+R1494,Online,2026,4,"Overall, the online platform was hard to navigate and files were hard to find. The pace gave us enough time to absorb each topic.",
+R1495,In-person,2026,4,"In general, assignments were well balanced across the term.",Post the full schedule at the start.
+R1496,In-person,2025,4,Having all slides and recordings online made studying easier.,
+R1497,In-person,2025,4,Great course!,
+R1498,In-person,2024,1,"To be fair, too many deadlines landed in the same week, which was stressful, and links on the course website were broken for weeks.",
+R1499,Hybrid,2025,2,"To be fair, grading was inconsistent and the rubric was unclear. The workload was overwhelming, with assignments due every few days.",Spread the deadlines out more evenly.
+R1500,Online,2026,2,,No suggestions.

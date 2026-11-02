@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and report the analysis settings (download the summary from the Data Summary tab)."
+title: "Qualitative Text Analyzer"
+type: software
+authors:
+  - family-names: Adegoke
+    given-names: Hope
+  - family-names: Anyaibe
+    given-names: Oluchi
+version: 2.0.0
+license: MIT
+date-released: "2026-11-02"
+repository-code: "https://github.com/Hope112/Qual_Text_Analyzer"
+url: "https://diodnl-hope-adegoke.shinyapps.io/Qualitative_Analysis/"
+abstract: >-
+  An R Shiny app for exploring open-ended text such as survey responses:
+  word frequencies, lexicon-based sentiment (Bing), and latent Dirichlet
+  allocation topic modeling with relevance-ranked terms, document-topic
+  shares, and diagnostics for choosing the number of topics.
+keywords:
+  - qualitative data analysis
+  - text mining
+  - topic modeling
+  - latent Dirichlet allocation
+  - sentiment analysis
+  - R Shiny
