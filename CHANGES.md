@@ -52,7 +52,7 @@ The Data Summary tab shows headline numbers for the responses analyzed and exclu
 
 ## Citation
 
-The version number, 2.0.0, appears in the sidebar and in the summary download, together with the recommended citation. The How to Use tab and the README explain how to cite the app and list the method references. A `CITATION.cff` file makes GitHub show a Cite this repository button.
+The version number, 2.0.0, appears in the sidebar and in the summary download, together with the recommended citation. The How to Use tab and the README explain how to cite the app and list the method references. A `CITATION.cff` file makes GitHub show a Cite this repository button. Version 2.0.0 is archived on Zenodo with the DOI 10.5281/zenodo.23891342, and 10.5281/zenodo.23891341 refers to all versions.
 
 ## Robustness
 

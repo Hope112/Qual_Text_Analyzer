@@ -9,6 +9,14 @@ authors:
     given-names: Oluchi
 version: 2.0.0
 license: MIT
+doi: 10.5281/zenodo.23891341
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23891341
+    description: "All versions (always resolves to the latest version)"
+  - type: doi
+    value: 10.5281/zenodo.23891342
+    description: "Version 2.0.0"
 date-released: "2026-11-02"
 repository-code: "https://github.com/Hope112/Qual_Text_Analyzer"
 url: "https://diodnl-hope-adegoke.shinyapps.io/Qualitative_Analysis/"

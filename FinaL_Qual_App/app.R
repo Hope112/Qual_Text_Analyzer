@@ -39,8 +39,10 @@ NEGATORS <- c("not", "no", "never", "without", "nor", "cannot", "hardly",
 `%||%` <- function(a, b) if (is.null(a)) b else a
 
 APP_VERSION <- "2.0.0"
+APP_DOI <- "10.5281/zenodo.23891342"        # DOI of this version (Zenodo)
+APP_CONCEPT_DOI <- "10.5281/zenodo.23891341"  # DOI that always points to the latest version
 APP_CITATION <- paste0("Adegoke, H., & Anyaibe, O. (2026). Qualitative Text Analyzer (Version ", APP_VERSION,
-                       ") [Computer software]. GitHub. https://github.com/Hope112/Qual_Text_Analyzer")
+                       ") [Computer software]. Zenodo. https://doi.org/", APP_DOI)
 
 # -----------------------------------------------------------------------------
 # Data loading
@@ -688,7 +690,9 @@ howto_tab <- function() {
         p("Please cite the app in APA 7 style as follows:"),
         div(class = "cite-block",
             HTML(paste0("Adegoke, H., &amp; Anyaibe, O. (2026). <em>Qualitative Text Analyzer</em> (Version ", APP_VERSION,
-                        ") [Computer software]. GitHub. https://github.com/Hope112/Qual_Text_Analyzer"))),
+                        ") [Computer software]. Zenodo. https://doi.org/", APP_DOI))),
+        p(paste0("To refer to the app in general rather than this version, use https://doi.org/", APP_CONCEPT_DOI,
+                 ", which always points to the latest version.")),
         p("Please also cite the methods behind your results. The last reference applies only if you used the",
           "k diagnostics."),
         tags$ul(class = "cite-refs",
